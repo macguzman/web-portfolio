@@ -1,0 +1,57 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body header {
+  background-color: #000047;
+  border: 1px solid black;
+}
+
+h1, h4 {
+  color: white;
+  text-align: center;
+}
+
+img {
+  margin: 0px 500px 0px 520px;
+  padding: 5px;
+}
+/*adjusting the image margins to make it look more centered also playing with the padding*/
+
+body {
+  background-color: #Add8e6;
+}
+/*we are gving the whole page a background here even*/
+
+hr {
+  color: black;
+}
+
+.section-header {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.intro {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+body article footer {
+  background-color: #000047;
+  padding: 7px;
+}
+/*we are adding color to the container and adjusting the padding*/
+
+.section-footer {
+  color: white;
+  text-align: center;
+}
+/*We are selecting a class to make sure it's visible*/
+a {
+  color: white;
+}
+/* we are giving the links a different color due to the background of the footer being dark */
+ol {
+  color: white;
+}
